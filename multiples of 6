@@ -1,4 +1,14 @@
-# Develop a function that calculates all mutiples of 6, from 0-100.
+# Develop a function that calculates all multiples of 6, from 0-100.
+
+x = 6
+max = 100
 
 
+
+
+for x in range(100):
+	if x % 6 == 0:
+	   print x 
+	   
+	   print "\n"
 
