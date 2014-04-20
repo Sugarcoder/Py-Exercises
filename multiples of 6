@@ -11,4 +11,7 @@ for x in range(100):
 	   print x 
 	   
 	   print "\n"
+	  
+	  
+# Answer will be 6, 12, 18, 21...
 
