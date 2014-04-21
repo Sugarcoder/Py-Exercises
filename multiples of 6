@@ -13,5 +13,8 @@ for x in range(100):
 	   print "\n"
 	  
 	  
-# Answer will be 6, 12, 18, 21...
+# Answer will be 6, 12, 18, 21, etc.
 
+
+
+# % (modulus) = the remainder. Example: 5 % 2 == 1  (1 is left over)
